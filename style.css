@@ -1,0 +1,11 @@
+/* Target only the video player and its contents */
+html.grey-mode .ytThumbnailViewModelImage,
+html.grey-mode .ytd-thumbnail,
+html.grey-mode .yt-spec-avatar-shape,
+html.grey-mode .ytThumbnailViewModelHost,
+html.grey-mode .ytCoreImageHost,
+html.grey-mode #movie_player,
+html.grey-mode .html5-video-player,
+html.grey-mode video {
+    filter: grayscale(100%) !important;
+}
