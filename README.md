@@ -19,7 +19,7 @@ A lightweight Chrome extension that toggles YouTube into greyscale mode — usef
 
 1. **Download or clone this repository**
    ```bash
-   git clone https://github.com/your-username/youtube-greyscale-toggle.git
+   git clone https://github.com/liam-hayward/youtube-greyscale-extension
    ```
 
 2. **Open Chrome Extensions**
